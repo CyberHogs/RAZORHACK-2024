@@ -1,0 +1,24 @@
+Return-Path: <pdarby@local>
+Delivered-To: sbarnabas@local
+Received: from mail.local (mail.local [127.0.0.1])
+        by rh-mailserver (Postfix) with ESMTP id 21363;
+        Sat, 19 Oct 2024 19:13:12 -0500
+Received: by rh-mailserver (Dovecot)
+        id 21363;
+        Sat, 19 Oct 2024 19:13:12 -0500
+Date: Sat, 19 Oct 2024 19:13:12 -0500
+From: "pdarby" <pdarby@local>
+To: "sbarnabas" <sbarnabas@local>
+Subject: Sales Projection Data Access
+Message-ID: <21363@rh-mailserver>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Shane,
+
+I’m having trouble accessing some of the sales data for this quarter. The system says I don’t have the right permissions. Could you look into this, or let me know who I need to talk to?
+
+Thanks,
+Parker Darby
+Sales Manager
